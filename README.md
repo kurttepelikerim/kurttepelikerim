@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Kerim
 
 I am a student in Computer Science at Columbia University. I am very interested in Artificial Intelligence, Machine Learning, and Deep Learning. I want to be an open source maintainer. Know more about my experience in [LinkedIn](https://www.linkedin.com/in/kerim-kurttepeli/).
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurttepelikerim&" alt="blink1073" /></p>
 
 <!--
 **kurttepelikerim/kurttepelikerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
