@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Kerim
 
--I am a student in Computer Science at Columbia University. 
--I am very interested in Artificial Intelligence, Machine Learning, and Deep Learning
--Know more about my experience in [LinkedIn](https://www.linkedin.com/in/kerim-kurttepeli/).
+- I am a student in Computer Science at Columbia University. 
+- I am very interested in Artificial Intelligence, Machine Learning, and Deep Learning.
+- Know more about my experience in [LinkedIn](https://www.linkedin.com/in/kerim-kurttepeli/).
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurttepelikerim&" alt="blink1073" /></p>
 
 <!--
